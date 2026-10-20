@@ -1,6 +1,6 @@
 # Library Management System (Java)
 
-A console-based Library Management System built in Java as a Programming 1 final project. It lets users manage a library's books — adding, searching, issuing, returning, deleting, and editing book records — using parallel arrays for storage.
+A console-based Library Management System built in Java as a Programming 1 final project. It lets users manage a library's books: adding, searching, issuing, returning, deleting, and editing book records using parallel arrays for storage.
 
 ## Overview
 
