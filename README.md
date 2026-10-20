@@ -29,9 +29,11 @@ The program stores book titles, descriptions, and availability statuses in array
 
 ### Compile & Run
 
-Because the source file declares `package librarymanagementsystem;`, it must be compiled from the parent folder:
+Since this is a single-file program, you can compile and run it directly from your terminal:
 
 ```bash
-# From the repository root
-javac librarymanagementsystem/LibraryManagementSystem.java
-java librarymanagementsystem.LibraryManagementSystem
+# 1. Compile the Java file
+javac LibraryManagementSystem.java
+
+# 2. Run the compiled program
+java LibraryManagementSystem
